@@ -20,5 +20,8 @@ http://articulo.mercadolibre.com.ar/MLA-574879007-mdulo-matriz-led-8x8-matrix-ar
 - Explicacion:
 http://gammon.com.au/forum/?id=11516
 
-- Datasheet del panel:
+- Datasheet del panel (del video):
 http://www.adafruit.com/datasheets/BL-M12A881.PDF
+
+- Datasheet del panel de mercadolibre:
+http://www.ledtoplite.com/uploadfile/2014/0807/20140807034706449.pdf
