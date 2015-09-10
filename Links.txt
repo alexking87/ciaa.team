@@ -8,8 +8,17 @@ http://techdocs.altium.com/display/ADOH/Tutorial+-+Getting+Started+with+PCB+Desi
 
 Links de proyectos con leds
 
+- Idea:
 https://www.youtube.com/watch?v=tMxBIFG4fug&spfreload=10
 
+- Idea2:
 https://www.youtube.com/watch?v=Hm3LqZvytmI
 
+- Idea3:
+http://articulo.mercadolibre.com.ar/MLA-574879007-mdulo-matriz-led-8x8-matrix-arduino-mar-del-plata-_JM
+
+- Explicacion:
 http://gammon.com.au/forum/?id=11516
+
+- Datasheet del panel:
+http://www.adafruit.com/datasheets/BL-M12A881.PDF
