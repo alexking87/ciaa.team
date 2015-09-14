@@ -25,3 +25,10 @@ http://www.adafruit.com/datasheets/BL-M12A881.PDF
 
 - Datasheet del panel de mercadolibre:
 http://www.ledtoplite.com/uploadfile/2014/0807/20140807034706449.pdf
+
+- Proyecto Led de 7 segmentos
+http://www.ermicro.com/blog/?p=2292
+
+-Informacion del integrado MAX7219
+http://playground.arduino.cc/Main/MAX72XXHardware
+http://datasheets.maximintegrated.com/en/ds/MAX7219-MAX7221.pdf
